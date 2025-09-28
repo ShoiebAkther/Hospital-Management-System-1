@@ -356,6 +356,6 @@ CREATE TABLE [dbo].[SalaryDetails] (
 * ChatBot Workflow 
 ![App Screenshot](https://github.com/ShoiebAkther/Hospital-Management-System-/blob/main/BotIMAGE.png)
 
-
+https://drive.google.com/file/d/1NatJPGqJQK8kimMJxGaDHZkAe5RimgSa/view?usp=sharing
 
 
